@@ -3,18 +3,53 @@
     padding: 0;
     border: 0;
     text-decoration: none;
-    /* background-color: black; */
 }
 
-.parent{
-   margin-top: 1%;
-   margin-right: 20%;
-   margin-left: 20%;
-   margin-bottom: 1%;
+.body{
+    background-color: black;
 }
 
-.first{
+.fish{
+   padding: 15px;
+}
+.container{
+   margin: 30px auto;
+   border: 1px solid gray;
+   background-color: white;
+   width: 30%;
+   padding: 15px;
+}
 
+.upperCard{
+    width: 90%;
+    margin: 0 auto;
+    padding-bottom: 15px;
+}
+
+.lowerCard{
+    border: 1px solid rgb(187, 185, 185);
+    padding: 10px;
+    margin: 20px;
 
 }
 
+.reef{
+    width: 100%;
+}
+
+
+.layer{
+    padding-bottom: 15px;
+}
+
+.orange{
+    padding-top: 15px;
+}
+
+.sci{
+    font-weight: bold;
+}
+
+.value{
+    font-weight: normal;
+}
