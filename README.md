@@ -2,7 +2,7 @@
   Animal-Cards
 
   ## Project Description
-This project is about animal and some of their features.
+This project is about clown fish and some of their features.
 
 
 ### Demo (Image)
